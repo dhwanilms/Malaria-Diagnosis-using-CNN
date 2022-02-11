@@ -2,6 +2,9 @@
 Classifying cell images into infected and uninfected using Convolutional Neural Networks
 
 ## Convolutional Neural Networks
+Convolutional Neural Networks (CNNs) is a class of Artificial Neural Networks (ANNs) with its major applications in Computer Vision and Deep Learning. CNNs take in an image as input and assign weights and biases to various different aspects of the image such lines, points, shape, color etc. Convolutional Neural Networks mainly consists of three different layers, the **convolution layer**, **pooling layer** and the **flatten layer**.
+
+The pooling layer reduces the size of the feature matrix so that it is computationally efficient to process the data. Pooling can be of two types, Max Pooling (returns the maximum value in the portion covered by the kernel) and Average Pooling (returns the average value of portion covered by the kernel).
 
 ## Motivation
 
